@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run modified_iris_app.py
